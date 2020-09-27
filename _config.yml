@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1526861855                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1533570073                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Le Do                                
-your_link                                 : http://leedegree.github.io/
+your_link                                 : http://hthmobile.github.io/
 your_city                                 : HaNoi                                
 email_address                             : 
 facebook_username                         :                                           
@@ -60,7 +60,7 @@ features                                  :
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
-    description                           : <a href="https://leedegree.github.io/privacy">Privacy</a><br><a href="https://leedegree.github.io/term/">Term of service</a>
+    description                           : <a href="https://hthmobile.github.io/privacy">Privacy</a><br><a href="https://hthmobile.github.io/term/">Term of service</a>
     fontawesome_icon_name                 : user-shield
 
 
