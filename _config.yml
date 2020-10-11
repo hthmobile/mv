@@ -39,7 +39,7 @@ features                                  :
     description                           : Find Movie Theaters Near You
     fontawesome_icon_name                 : location-arrow
 
-  - title                                 : Make plan
+  - title                                 : Show time
     description                           : Looking for cinemas near your location & Show time of theater
     fontawesome_icon_name                 : calendar-check
 
